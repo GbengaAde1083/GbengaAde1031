@@ -1,6 +1,5 @@
 # Title: Performance Evaluation With an R Confusion Matrix
-# Author: Gbenga Adeyinka
-# Date: 7/5/2024
+
 
 # Load the library
 library(datasets) 
